@@ -1,7 +1,8 @@
-#👋 Hey
+# Hi, i'm Pedro👋  
 
 - 👀 I’m interested in Computer Vision, Data Visualization and Web Development in general
 - 🌱 I’m currently learning Django, React and many other tech
+- ✨ Check out my repos
 
 <!---
 peviss/peviss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
