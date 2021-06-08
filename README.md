@@ -1,4 +1,4 @@
-# Hi, i'm Pedro👋  
+# Hello world! 👋  
 
 - 👀 I’m interested in Computer Vision, Data Visualization and Web Development in general
 - 🌱 I’m currently learning Django, React and many other tech
